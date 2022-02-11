@@ -1,0 +1,411 @@
+MultiMC version: 0.6.14-3001
+
+
+Launched instance in offline mode
+
+Minecraft folder is:
+C:/Program Files (x86)/MultiMC/instances/FTB Presents Direwolf20 1.161/minecraft
+
+
+Java path is:
+C:/Program Files (x86)/Common Files/Oracle/Java/javapath/javaw.exe
+
+
+Checking Java version...
+Java is version 1.8.0_311, using 64-bit architecture, from Oracle Corporation.
+
+
+Main Class:
+  io.github.zekerzhayard.forgewrapper.installer.Main
+
+Native path:
+  C:/Program Files (x86)/MultiMC/instances/FTB Presents Direwolf20 1.161/natives
+
+Traits:
+traits XR:Initial
+traits FirstThreadOnMacOS
+
+Libraries:
+  C:/Program Files (x86)/MultiMC/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar
+  C:/Program Files (x86)/MultiMC/libraries/com/mojang/patchy/1.3.9/patchy-1.3.9.jar
+  C:/Program Files (x86)/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar
+  C:/Program Files (x86)/MultiMC/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar
+  C:/Program Files (x86)/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar
+  C:/Program Files (x86)/MultiMC/libraries/com/ibm/icu/icu4j/66.1/icu4j-66.1.jar
+  C:/Program Files (x86)/MultiMC/libraries/com/mojang/javabridge/1.0.22/javabridge-1.0.22.jar
+  C:/Program Files (x86)/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
+  C:/Program Files (x86)/MultiMC/libraries/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar
+  C:/Program Files (x86)/MultiMC/libraries/com/google/guava/guava/21.0/guava-21.0.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar
+  C:/Program Files (x86)/MultiMC/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar
+  C:/Program Files (x86)/MultiMC/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+  C:/Program Files (x86)/MultiMC/libraries/com/mojang/brigadier/1.0.17/brigadier-1.0.17.jar
+  C:/Program Files (x86)/MultiMC/libraries/com/mojang/datafixerupper/4.0.26/datafixerupper-4.0.26.jar
+  C:/Program Files (x86)/MultiMC/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+  C:/Program Files (x86)/MultiMC/libraries/com/mojang/authlib/2.1.28/authlib-2.1.28.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar
+  C:/Program Files (x86)/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+  C:/Program Files (x86)/MultiMC/libraries/it/unimi/dsi/fastutil/8.2.1/fastutil-8.2.1.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar
+  C:/Program Files (x86)/MultiMC/libraries/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar
+  C:/Program Files (x86)/MultiMC/libraries/io/github/zekerzhayard/ForgeWrapper/mmc3/ForgeWrapper-mmc3.jar
+  C:/Program Files (x86)/MultiMC/libraries/net/minecraftforge/forge/1.16.5-36.2.20/forge-1.16.5-36.2.20-launcher.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/ow2/asm/asm/9.1/asm-9.1.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar
+  C:/Program Files (x86)/MultiMC/libraries/cpw/mods/modlauncher/8.0.9/modlauncher-8.0.9.jar
+  C:/Program Files (x86)/MultiMC/libraries/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar
+  C:/Program Files (x86)/MultiMC/libraries/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar
+  C:/Program Files (x86)/MultiMC/libraries/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar
+  C:/Program Files (x86)/MultiMC/libraries/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar
+  C:/Program Files (x86)/MultiMC/libraries/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar
+  C:/Program Files (x86)/MultiMC/libraries/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar
+  C:/Program Files (x86)/MultiMC/libraries/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar
+  C:/Program Files (x86)/MultiMC/libraries/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/jline/jline/3.12.1/jline-3.12.1.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar
+  C:/Program Files (x86)/MultiMC/libraries/net/jodah/typetools/0.8.3/typetools-0.8.3.jar
+  C:/Program Files (x86)/MultiMC/libraries/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar
+  C:/Program Files (x86)/MultiMC/libraries/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar
+  C:/Program Files (x86)/MultiMC/libraries/com/mojang/minecraft/1.16.5/minecraft-1.16.5-client.jar
+
+Native libraries:
+  C:/Program Files (x86)/MultiMC/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-windows.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-windows.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-windows.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-windows.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-windows.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-windows.jar
+  C:/Program Files (x86)/MultiMC/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-windows.jar
+  C:/Program Files (x86)/MultiMC/libraries/com/mojang/text2speech/1.11.3/text2speech-1.11.3-natives-windows.jar
+
+Mods:
+  [✔️] absentbydesign-1.16.5-1.4.1
+  [✔️] AppleSkin-mc1.16.2-forge-1.0.14
+  [✔️] appliedenergistics2-8.3.0-alpha.3
+  [✔️] archers_paradox-1.16.4-1.2.0
+  [✔️] architectury-1.10.139-forge
+  [✔️] ars_nouveau-1.16.4-1.12.5
+  [✔️] astralsorcery-1.16.4-1.13.9
+  [✔️] BetterAdvancements-1.16.5-0.1.0.105
+  [✔️] BloodMagic-1.16.4-3.1.0-15
+  [✔️] Bookshelf-1.16.5-10.0.7
+  [✔️] Botania-1.16.4-414
+  [✔️] BotanyPots-1.16.5-7.0.15
+  [✔️] BotanyTrees-1.16.5-3.0.2
+  [✔️] buildinggadgets-1.16.5-3.8.0
+  [✔️] bwncr-1.16.4-3.9.16
+  [✔️] cc-tweaked-1.16.4-1.95.3
+  [✔️] charginggadgets-1.3.0
+  [✔️] chiselsandbits-0.3.4-RELEASE
+  [✔️] chocolate-1.3.0-1.16.4
+  [✔️] ChunkNoGoByeBye-1.16.5-1.3.0
+  [✔️] citadel-1.6.2
+  [✔️] cloth-config-4.11.19-forge
+  [✔️] Clumps-6.0.0.21
+  [✔️] CodeChickenLib-1.16.4-3.5.1.408-universal
+  [✔️] cofh_core-1.16.4-1.2.1
+  [✔️] comforts-forge-1.16.4-4.0.1.0
+  [✔️] CommonCapabilities-1.16.5-2.6.0
+  [✔️] Controlling-7.0.0.14
+  [✔️] CookingForBlockheads_1.16.5-9.3.1
+  [✔️] create-mc1.16.5_v0.3.1b
+  [✔️] culinaryconstruct-forge-1.16.5-4.0.0.6
+  [✔️] curios-forge-1.16.5-4.0.5.0
+  [✔️] Cyclic-1.16.5-1.2.7
+  [✔️] CyclopsCore-1.16.5-1.11.5
+  [✔️] DarkUtilities-1.16.5-8.0.3
+  [✔️] DefaultOptions_1.16.3-12.2.0
+  [✔️] DeLogger-1.16.5-1.0.9+mc-1.16.5
+  [✔️] doomangelring-1.16.4-1.0.0
+  [✔️] DungeonCrawl-1.16.3-2.2.4
+  [✔️] elevatorid-1.16.5-1.7.13
+  [✔️] emojiful-1.16.4-2.1.4
+  [✔️] EnchantmentDescriptions-1.16.5-7.0.3
+  [✔️] EnderStorage-1.16.4-2.7.1.166-universal
+  [✔️] ensorcellation-1.16.4-1.2.0
+  [✔️] entangled-1.2.12-mc1.16.5
+  [✔️] entitydetectors-1.16.4-1.1.0.1
+  [✔️] envirocore-1.16.5-3.0.8.0
+  [✔️] envirotech-1.16.5-3.0.8.0
+  [✔️] extcaves-2.4
+  [✔️] ExtraStorage-1.16.4-1.3.1
+  [✔️] ExtremeReactors2-1.16.4-2.0.23
+  [✔️] extremeSoundMuffler-3.9_Forge-1.16.5
+  [✔️] FastFurnace-1.16.4-4.4.0
+  [✔️] FastLeafDecay-v25
+  [✔️] FastWorkbench-1.16.4-4.5.1
+  [✔️] ferritecore-2.0.4-forge
+  [✔️] findme-1.16.3-2.1.0.0
+  [✔️] flatbedrock-1.16.4-1.1.6
+  [✔️] FluxNetworks-1.16.5-6.1.6.11
+  [✔️] ftb-backups-2.1.1.6
+  [✔️] ftb-chunks-1605.2.3-build.75
+  [✔️] ftb-essentials-1604.1.0.13
+  [✔️] ftb-gui-library-1605.2.1.41-forge
+  [✔️] ftb-janitor-1604.1.1-build.20
+  [✔️] ftb-ranks-1604.1.1.11
+  [✔️] ftb-teams-1604.1.0.16-forge
+  [✔️] geckolib-forge-1.16.5-3.0.19
+  [✔️] glassential-forge-1.16.5-1.1.6
+  [✔️] gravestone-1.16.5-1.0.1
+  [✔️] harvest-1.16.3-1.0.3
+  [✔️] ice_ice_baby-1.16.4-3.0.1
+  [✔️] ImmersiveEngineering-1.16.5-4.2.4-134
+  [✔️] immersiveposts-1.16.5-4.0.0
+  [✔️] industrial-foregoing-1.16.5-3.2.11-55cb112
+  [✔️] IntegratedCrafting-1.16.5-1.0.13
+  [✔️] IntegratedDynamics-1.16.5-1.7.2
+  [✔️] integratednbt-1.16.4-1.4.2
+  [✔️] IntegratedTerminals-1.16.5-1.2.2
+  [✔️] IntegratedTunnels-1.16.5-1.7.1
+  [✔️] inventorysorter-1.16.1-18.1.0
+  [✔️] ironchest-1.16.4-11.2.10
+  [✔️] itemcollectors-1.0.11-mc1.16.5
+  [✔️] JAMD-1.1.9-beta+mc-1.16.5
+  [✔️] JAVD-2.5.45+mc-1.16.5
+  [✔️] jei-1.16.5-7.6.4.86
+  [✔️] jei-1.16.5-7.6.4.90
+  [✔️] jeiintegration_1.16.5-7.0.1.15
+  [✔️] JustEnoughProfessions-1.16.5-1.2.1
+  [✔️] JustEnoughResources-1.16.4-0.12.0.109
+  [✔️] Krate-1.16.5-0.1.4
+  [✔️] kubejs-1605.3.6-build.179-forge
+  [✔️] kubejs-blood-magic-1604.1.0.4
+  [✔️] kubejs-create-1604.1.0.4
+  [✔️] kubejs-immersive-engineering-1604.1.0.12
+  [✔️] kubejs-mekanism-1604.1.1.6
+  [✔️] kubejs-thermal-1605.1.1.6
+  [✔️] kubejs-ui-1605.1.3-build.4-forge
+  [✔️] lanterncolors-1.16.3-2.1.1
+  [✔️] LibX-1.16.3-1.0.31
+  [✔️] light-overlay-5.8.0
+  [✔️] Lollipop-1.16.5-3.2.9
+  [✔️] mana-and-artifice-1.3.0.6
+  [✔️] mcjtylib-1.16-5.0.19
+  [✔️] mcw-bridges-1.0.5-mc1.16.5-4
+  [✔️] mcw-doors-1.0.2-mc1.16.5
+  [✔️] mcw-roofs-2.0.1-mc1.16.5-4
+  [✔️] mcw-trapdoors-1.0.2-mc1.16.5
+  [✔️] mcw-windows-1.0.3-mc1.16.5
+  [✔️] Mekanism-1.16.5-10.0.21.448
+  [✔️] MekanismGenerators-1.16.5-10.0.21.448
+  [✔️] MekanismTools-1.16.5-10.0.21.448
+  [✔️] mgui-1.16.4-3.1.3
+  [✔️] minecolonies-1.16.5-1.0.429-RELEASE
+  [✔️] MiniCoal2-1.16.1-0.0.2-universal
+  [✔️] mininggadgets-1.7.5
+  [✔️] modnametooltip_1.16.2-1.15.0
+  [✔️] modular-routers-1.16.5-7.4.0-55
+  [✔️] moredragoneggs-1.4
+  [✔️] Morpheus-1.16.5-4.2.70
+  [✔️] MouseTweaks-2.14-mc1.16.2
+  [✔️] movingelevators-1.2.33-mc1.16.5
+  [✔️] MythicBotany-1.16.3-1.2.10
+  [✔️] NaturesAura-34.2
+  [✔️] NaturesCompass-1.16.5-1.8.6
+  [✔️] observerlib-1.16.4-1.5.1
+  [✔️] Patchouli-1.16.4-50
+  [✔️] Placebo-1.16.4-4.4.1
+  [✔️] pneumaticcraft-repressurized-1.16.5-2.11.4-170
+  [✔️] pocketstorage-1.16.3-0.7.6
+  [✔️] portality-1.16.4-3.2.1
+  [✔️] Powah-1.16.5-2.3.16
+  [✔️] PrettyPipes-1.9.3
+  [✔️] Psi 1.16-93
+  [✔️] QuantumStorage-1.16.4-5.3.0
+  [✔️] quartz-chests-1603.1.0.8
+  [✔️] rangedpumps-0.8.2
+  [✔️] ratlantis-1.0.0-1.16.3
+  [✔️] rats-7.1.1-1.16.5
+  [✔️] recipebuffers-2.1
+  [✔️] refinedpipes-0.5
+  [✔️] refinedstorage-1.9.12
+  [✔️] refinedstorageaddons-0.7.2
+  [✔️] reliquary-1.16.5-1.3.5.1096
+  [✔️] restrictions-1.16-3.0.3
+  [✔️] rftoolsbase-1.16-2.0.10
+  [✔️] rftoolsbuilder-1.16-3.0.16
+  [✔️] rftoolscontrol-1.16-4.0.8
+  [✔️] rftoolsdim-1.16-7.0.7-beta
+  [✔️] rftoolspower-1.16-3.0.8
+  [✔️] rftoolsstorage-1.16-2.0.11
+  [✔️] rftoolsutility-1.16-3.0.25
+  [✔️] rhino-1.7.13-build.14
+  [✔️] rsgauges-1.16.4-1.2.8
+  [✔️] rsrequestify-1.16.3-2.0.1
+  [✔️] Runelic-1.16.5-7.0.1
+  [✔️] serverconfigupdater-1.3
+  [✔️] Shrink-1.16.4-1.0.7
+  [✔️] shutupexperimentalsettings-1.0.3
+  [✔️] simplemagnets-1.1.2-mc1.16.5
+  [✔️] simplybackpacks-1.16.3-1.4.13
+  [✔️] SimplyJetpacks2-1.16.5-2.6.7.1
+  [✔️] snad-1.0.5-1.16.5
+  [✔️] SpawnerFix-1.16.2-1.0.0.2
+  [✔️] Statues-1.16.5-0.1.6.7
+  [✔️] StorageDrawers-1.16.3-8.2.2
+  [✔️] structurize-1.16.5-1.0.343-RELEASE
+  [✔️] supermartijn642configlib-1.0.5a-mc1.16
+  [✔️] supermartijn642corelib-1.0.1-mc1.16.5
+  [✔️] The_Undergarden-1.16.5-0.4.5
+  [✔️] theoneprobe-1.16-3.0.7
+  [✔️] thermal_cultivation-1.16.4-1.2.0
+  [✔️] thermal_expansion-1.16.4-1.2.0
+  [✔️] thermal_foundation-1.16.4-1.2.0
+  [✔️] thermal_innovation-1.16.4-1.2.0
+  [✔️] thermal_locomotion-1.16.4-1.2.0
+  [✔️] TipTheScales-1.16.5-3.0.0.11
+  [✔️] titanium-1.16.5-3.2.8.2
+  [✔️] Toast-Control-1.16.4-4.3.1
+  [✔️] torchmaster-2.3.6
+  [✔️] trashcans-1.0.8-mc1.16.4
+  [✔️] valkyrielib-1.16.5-3.0.8.0
+  [✔️] Waystones_1.16.5-7.4.0
+  [✔️] woot-1.16.5-1.0.5.0
+  [✔️] wormhole-1.1.6-mc1.16.5
+  [✔️] xnet-1.16-3.0.11
+  [✔️] XNetGases-1.16.5-2.2.6
+  [✔️] ZeroCore2-1.16.4-2.0.21
+
+Params:
+  --username  --version MultiMC5 --gameDir C:/Program Files (x86)/MultiMC/instances/FTB Presents Direwolf20 1.161/minecraft --assetsDir C:/Program Files (x86)/MultiMC/assets --assetIndex 1.16 --uuid  --accessToken  --userType  --versionType release --launchTarget fmlclient --fml.forgeVersion 36.2.20 --fml.mcVersion 1.16.5 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20210115.111550
+
+Window size: 854 x 480
+
+Java Arguments:
+[-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump, -Xms4096m, -Xmx8192m, -Duser.language=en]
+
+
+Minecraft process ID: 17168
+
+
+Using onesix launcher.
+
+Checking: MC_SLIM
+Checking: MAPPINGS
+Checking: MC_EXTRA
+Checking: PATCHED
+Checking: MC_SRG
+2022-02-10 23:56:22,166 main WARN Advanced terminal features are not available in this environment
+[23:56:22] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, TwistedMintz, --version, MultiMC5, --gameDir, C:/Program Files (x86)/MultiMC/instances/FTB Presents Direwolf20 1.161/minecraft, --assetsDir, C:/Program Files (x86)/MultiMC/assets, --assetIndex, 1.16, --uuid, <PROFILE ID>, --accessToken, ????????, --userType, mojang, --versionType, release, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.20, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550, --width, 854, --height, 480]
+[23:56:22] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_311 by Oracle Corporation
+[23:56:22] [main/INFO] [ne.mi.fm.lo.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[23:56:22] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Program%20Files%20(x86)/MultiMC/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[23:56:25] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 13:0 token recognition error at: '`'
+[23:56:26] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
+[23:56:26] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[23:56:26] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlclient' with arguments [--version, MultiMC5, --gameDir, C:\Program Files (x86)\MultiMC\instances\FTB Presents Direwolf20 1.161\minecraft, --assetsDir, C:\Program Files (x86)\MultiMC\assets, --uuid, <PROFILE ID>, --username, TwistedMintz, --assetIndex, 1.16, --accessToken, ????????, --userType, mojang, --versionType, release, --width, 854, --height, 480]
+[23:56:26] [main/WARN] [mixin/]: Reference map 'ftbranks.refmap.json' for ftbranks-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:56:26] [main/INFO] [ne.mi.co.Co.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
+[23:56:27] [main/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Adding 'set_player_field' ASM patch...
+[23:56:27] [main/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Added 'set_player_field' ASM patch!
+[23:56:27] [main/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Adding 'water_movement_slowdown_prevention' ASM patch...
+[23:56:27] [main/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Added 'water_movement_slowdown_prevention' ASM patch!
+[23:56:27] [main/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Adding 'add_custom_entity_collision' ASM patch...
+[23:56:27] [main/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Added 'add_custom_entity_collision' ASM patch!
+[23:56:27] [main/INFO] [ne.mi.co.Co.placebo/COREMODLOG]: Patching LootTableManager#apply
+[23:56:27] [main/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Adding 'add_missing_tag_enchantment_tooltip' ASM patch...
+[23:56:27] [main/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Added 'add_missing_tag_enchantment_tooltip' ASM patch!
+[23:56:27] [main/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Adding 'add_enchantment_tooltip' ASM patch...
+[23:56:27] [main/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Added 'add_enchantment_tooltip' ASM patch!
+[23:56:27] [main/INFO] [ne.mi.co.Co.placebo/COREMODLOG]: Patching ModelBakery#<init>
+[23:56:27] [main/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Adding 'add_custom_entity_collision' ASM patch...
+[23:56:27] [main/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Added 'add_custom_entity_collision' ASM patch!
+[23:56:27] [main/INFO] [ne.mi.co.Co.observerlib/COREMODLOG]: Adding 'on_block_change' ASM patch...
+[23:56:27] [main/INFO] [ne.mi.co.Co.observerlib/COREMODLOG]: Added 'on_block_change' ASM patch!
+[23:56:27] [main/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Adding 'sun_brightness_server' ASM patch...
+[23:56:27] [main/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Added 'sun_brightness_server' ASM patch!
+[23:56:27] [main/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Adding 'reach_set_client_renderer' ASM patch...
+[23:56:27] [main/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Added 'reach_set_client_renderer' ASM patch!
+[23:56:29] [pool-3-thread-1/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Adding 'add_custom_entity_collision' ASM patch...
+[23:56:29] [pool-3-thread-1/INFO] [ne.mi.co.Co.astralsorcery/COREMODLOG]: Added 'add_custom_entity_collision' ASM patch!
+[23:56:29] [main/INFO] [STDERR/]: [org.multimc.onesix.OneSixLauncher:launchWithMainClass:213]: Failed to start Minecraft:
+[23:56:29] [main/INFO] [STDERR/]: [org.multimc.onesix.OneSixLauncher:launch:245]: java.lang.reflect.InvocationTargetException
+[23:56:29] [main/INFO] [STDERR/]: [org.multimc.onesix.OneSixLauncher:launch:245]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[23:56:29] [main/INFO] [STDERR/]: [org.multimc.onesix.OneSixLauncher:launch:245]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[23:56:29] [main/INFO] [STDERR/]: [org.multimc.onesix.OneSixLauncher:launch:245]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[23:56:29] [main/INFO] [STDERR/]: [org.multimc.onesix.OneSixLauncher:launch:245]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[23:56:29] [main/INFO] [STDERR/]: [org.multimc.onesix.OneSixLauncher:launch:245]: 	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210)
+[23:56:29] [main/INFO] [STDERR/]: [org.multimc.onesix.OneSixLauncher:launch:245]: 	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245)
+[23:56:29] [main/INFO] [STDERR/]: [org.multimc.onesix.OneSixLauncher:launch:245]: 	at org.multimc.EntryPoint.listen(EntryPoint.java:143)
+[23:56:29] [main/INFO] [STDERR/]: [org.multimc.onesix.OneSixLauncher:launch:245]: 	at org.multimc.EntryPoint.main(EntryPoint.java:34)
+[23:56:29] [main/INFO] [STDERR/]: [org.multimc.onesix.OneSixLauncher:launchWithMainClass:214]: Caused by: java.lang.reflect.InvocationTargetException
+[23:56:29] [main/INFO] [STDERR/]: [org.multimc.onesix.OneSixLauncher:launchWithMainClass:214]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[23:56:29] [main/INFO] [STDERR/]: [org.multimc.onesix.OneSixLauncher:launchWithMainClass:214]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[23:56:29] [main/INFO] [STDERR/]: [org.multimc.onesix.OneSixLauncher:launchWithMainClass:214]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[23:56:29] [main/INFO] [STDERR/]: [org.multimc.onesix.OneSixLauncher:launchWithMainClass:214]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[23:56:29] [main/INFO] [STDERR/]: [org.multimc.onesix.OneSixLauncher:launchWithMainClass:214]: 	at io.github.zekerzhayard.forgewrapper.installer.Main.main(Main.java:57)
+[23:56:29] [main/INFO] [STDERR/]: [org.multimc.onesix.OneSixLauncher:launchWithMainClass:214]: 	... 8 more
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: Caused by: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:39)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	... 13 more
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: Caused by: java.lang.reflect.InvocationTargetException
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.loading.FMLClientLaunchProvider.lambda$launchService$0(FMLClientLaunchProvider.java:51)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	... 17 more
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: Caused by: java.lang.RuntimeException: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at net.minecraftforge.fml.loading.BackgroundWaiter.runAndTick(BackgroundWaiter.java:43)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at net.minecraft.client.main.Main.main(Main.java:123)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	... 23 more
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:154)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at net.minecraft.block.Blocks.<clinit>(Blocks.java:30)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at net.minecraft.world.gen.surfacebuilders.SurfaceBuilder.<clinit>(SurfaceBuilder.java:12)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at net.minecraft.world.gen.surfacebuilders.ConfiguredSurfaceBuilders.<clinit>(SourceFile:11)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at net.minecraft.util.registry.WorldGenRegistries.func_243674_g(WorldGenRegistries.java:33)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at net.minecraft.util.registry.WorldGenRegistries.func_243668_a(WorldGenRegistries.java:89)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at java.util.LinkedHashMap.forEach(Unknown Source)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at net.minecraft.util.registry.WorldGenRegistries.<clinit>(WorldGenRegistries.java:88)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at net.minecraft.util.registry.Registry.<clinit>(Registry.java:464)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at net.minecraft.util.registry.Bootstrap.func_151354_b(Bootstrap.java:38)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at net.minecraft.client.main.Main.lambda$main$0(Main.java:123)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at java.lang.Thread.run(Unknown Source)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: Caused by: org.spongepowered.asm.mixin.injection.throwables.InjectionError: Critical injection failure: Constant modifier method hookLightningDamage(FLnet/minecraft/world/server/ServerWorld;Lnet/minecraft/entity/effect/LightningBoltEntity;)F in ars_nouveau.mixins.json:LightningRedirectMixin failed injection check, (0/1) succeeded. Scanned 1 target(s). Using refmap ars_nouveau.refmap.json
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.postInject(InjectionInfo.java:468)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1362)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1051)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:400)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:325)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363)
+[23:56:29] [main/INFO] [STDERR/]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	... 25 more
+[23:56:29] [main/INFO] [STDOUT/]: [org.multimc.EntryPoint:main:37]: Exiting with -1
+Process exited with code -1.
+Clipboard copy at: 10 Feb 2022 23:56:33 -0500
